@@ -1,5 +1,1 @@
-npa/plz,longitude,latitude,date,total_healthy,total_sick_guess_no_corona,total_sick_guess_corona,total_sick_corona_confirmed,total_recovered
-1234,6.15828,46.172,2020-03-21,0,1,0,0,0
-1234,6.15828,46.172,2020-03-22,0,2,1,0,0
-1231,6.17799,46.1889,2020-03-22,0,0,0,1,0
-3455,7.73689,47.0251,2020-03-22,0,1,0,0,0
+date,state,npa_plz,latitude,longitude,total_healthy,total_sick_guess_no_corona,total_sick_guess_corona,total_sick_corona_confirmed,total_recovered
