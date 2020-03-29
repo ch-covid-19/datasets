@@ -7,8 +7,7 @@ Data are provided by https://covid-self-report.ch/
 | header | What |
 |---|---|
 | date | Date  |
-| state | Canton/Kanton  |
-| npa_plz | NPA/PLZ |
+| locator | NPA/PLZ |
 | latitude | latitude |
 | longitude | longitude |
 | total_healthy | Total of persons who report an "healty" status |
